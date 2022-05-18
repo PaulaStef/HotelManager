@@ -1,0 +1,15 @@
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\DataAccess.dll
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\DataAccess.pdb
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\An_III\sem2\PS\Project\Project_code\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
